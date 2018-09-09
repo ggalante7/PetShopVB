@@ -1,0 +1,110 @@
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v4\Proj_PetShop_v4\bin\Debug\Proj_PetShop_v4.exe.config
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v4\Proj_PetShop_v4\bin\Debug\Proj_PetShop_v4.exe
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v4\Proj_PetShop_v4\bin\Debug\Proj_PetShop_v4.pdb
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v4\Proj_PetShop_v4\bin\Debug\Proj_PetShop_v4.xml
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.vbproj.ResolveComReference.cache
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.frm_1_login.resources
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.Resources.resources
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.vbproj.GenerateResource.Cache
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.vbproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.exe
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.xml
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.pdb
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Interop.ADODB.dll
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.vbprojResolveAssemblyReference.cache
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.frm_4_CadastroFuncionario.resources
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.frm_2_RecuperarSenha.resources
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.frm_5_CadastroProduto.resources
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.frm_6_CadastroClientes.resources
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.frm_7_Hospedagem.resources
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.frm_8_CadastroConsultaVet.resources
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.frm_9_Caixa.resources
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v4\Proj_PetShop_v4\bin\Debug\Proj_PetShop_v4.exe.config
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v4\Proj_PetShop_v4\bin\Debug\Proj_PetShop_v4.exe
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v4\Proj_PetShop_v4\bin\Debug\Proj_PetShop_v4.pdb
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v4\Proj_PetShop_v4\bin\Debug\Proj_PetShop_v4.xml
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v4\Proj_PetShop_v4\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.vbprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Interop.ADODB.dll
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.vbproj.ResolveComReference.cache
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.frm_1_login.resources
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.frm_2_RecuperarSenha.resources
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.frm_4_CadastroFuncionario.resources
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.frm_5_CadastroProduto.resources
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.frm_6_CadastroClientes.resources
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.frm_7_Hospedagem.resources
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.frm_8_CadastroConsultaVet.resources
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.frm_9_Caixa.resources
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.Resources.resources
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.vbproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.exe
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.xml
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.pdb
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.frm_3_Menu.resources
+C:\Users\migue\Desktop\Proj_PetShop_v4\Proj_PetShop_v4\bin\Debug\Proj_PetShop_v4.exe.config
+C:\Users\migue\Desktop\Proj_PetShop_v4\Proj_PetShop_v4\bin\Debug\Proj_PetShop_v4.exe
+C:\Users\migue\Desktop\Proj_PetShop_v4\Proj_PetShop_v4\bin\Debug\Proj_PetShop_v4.pdb
+C:\Users\migue\Desktop\Proj_PetShop_v4\Proj_PetShop_v4\bin\Debug\Proj_PetShop_v4.xml
+C:\Users\migue\Desktop\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.vbprojResolveAssemblyReference.cache
+C:\Users\migue\Desktop\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Interop.ADODB.dll
+C:\Users\migue\Desktop\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.vbproj.ResolveComReference.cache
+C:\Users\migue\Desktop\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.frm_1_login.resources
+C:\Users\migue\Desktop\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.frm_2_RecuperarSenha.resources
+C:\Users\migue\Desktop\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.frm_3_Menu.resources
+C:\Users\migue\Desktop\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.frm_4_CadastroFuncionario.resources
+C:\Users\migue\Desktop\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.frm_5_CadastroProduto.resources
+C:\Users\migue\Desktop\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.frm_6_CadastroClientes.resources
+C:\Users\migue\Desktop\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.frm_7_Hospedagem.resources
+C:\Users\migue\Desktop\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.frm_8_CadastroConsultaVet.resources
+C:\Users\migue\Desktop\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.frm_9_Caixa.resources
+C:\Users\migue\Desktop\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.Resources.resources
+C:\Users\migue\Desktop\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.vbproj.GenerateResource.Cache
+C:\Users\migue\Desktop\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.vbproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.exe
+C:\Users\migue\Desktop\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.xml
+C:\Users\migue\Desktop\Proj_PetShop_v4\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.pdb
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v5\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.vbprojResolveAssemblyReference.cache
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v5\Proj_PetShop_v4\obj\Debug\Interop.ADODB.dll
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v5\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.vbproj.ResolveComReference.cache
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v5\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.frm_1_login.resources
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v5\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.frm_3_Menu.resources
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v5\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.Resources.resources
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v5\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.vbproj.GenerateResource.Cache
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v5\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.vbproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v5\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.exe
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v5\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.xml
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v5\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.pdb
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v5\Proj_PetShop_v4\bin\Debug\Proj_PetShop_v4.exe.config
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v5\Proj_PetShop_v4\bin\Debug\Proj_PetShop_v4.exe
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v5\Proj_PetShop_v4\bin\Debug\Proj_PetShop_v4.pdb
+C:\Users\migue\Documents\PROJETOS EM ANDAMENTO\Projetos_VB.Net\Proj_PetShop_v5\Proj_PetShop_v4\bin\Debug\Proj_PetShop_v4.xml
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v5.2\Proj_PetShop_v5\Proj_PetShop_v4\bin\Debug\Proj_PetShop_v4.exe.config
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v5.2\Proj_PetShop_v5\Proj_PetShop_v4\bin\Debug\Proj_PetShop_v4.exe
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v5.2\Proj_PetShop_v5\Proj_PetShop_v4\bin\Debug\Proj_PetShop_v4.pdb
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v5.2\Proj_PetShop_v5\Proj_PetShop_v4\bin\Debug\Proj_PetShop_v4.xml
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v5.2\Proj_PetShop_v5\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.vbprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v5.2\Proj_PetShop_v5\Proj_PetShop_v4\obj\Debug\Interop.ADODB.dll
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v5.2\Proj_PetShop_v5\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.vbproj.ResolveComReference.cache
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v5.2\Proj_PetShop_v5\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.frm_1_login.resources
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v5.2\Proj_PetShop_v5\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.frm_3_Menu.resources
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v5.2\Proj_PetShop_v5\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.Resources.resources
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v5.2\Proj_PetShop_v5\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.vbproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v5.2\Proj_PetShop_v5\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.exe
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v5.2\Proj_PetShop_v5\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.xml
+C:\Users\Gabriel\Documents\FATEC\2º SEM\Sistemas de informacao\Proj_PetShop_v5.2\Proj_PetShop_v5\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.pdb
+D:\Arquivos\Nova pasta\Proj_PetShop_v5.2\Proj_PetShop_v5\Proj_PetShop_v4\bin\Debug\Proj_PetShop_v4.exe.config
+D:\Arquivos\Nova pasta\Proj_PetShop_v5.2\Proj_PetShop_v5\Proj_PetShop_v4\bin\Debug\Proj_PetShop_v4.exe
+D:\Arquivos\Nova pasta\Proj_PetShop_v5.2\Proj_PetShop_v5\Proj_PetShop_v4\bin\Debug\Proj_PetShop_v4.pdb
+D:\Arquivos\Nova pasta\Proj_PetShop_v5.2\Proj_PetShop_v5\Proj_PetShop_v4\bin\Debug\Proj_PetShop_v4.xml
+D:\Arquivos\Nova pasta\Proj_PetShop_v5.2\Proj_PetShop_v5\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.vbprojAssemblyReference.cache
+D:\Arquivos\Nova pasta\Proj_PetShop_v5.2\Proj_PetShop_v5\Proj_PetShop_v4\obj\Debug\Interop.ADODB.dll
+D:\Arquivos\Nova pasta\Proj_PetShop_v5.2\Proj_PetShop_v5\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.vbproj.ResolveComReference.cache
+D:\Arquivos\Nova pasta\Proj_PetShop_v5.2\Proj_PetShop_v5\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.frm_1_login.resources
+D:\Arquivos\Nova pasta\Proj_PetShop_v5.2\Proj_PetShop_v5\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.frm_3_Menu.resources
+D:\Arquivos\Nova pasta\Proj_PetShop_v5.2\Proj_PetShop_v5\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.Resources.resources
+D:\Arquivos\Nova pasta\Proj_PetShop_v5.2\Proj_PetShop_v5\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.vbproj.GenerateResource.cache
+D:\Arquivos\Nova pasta\Proj_PetShop_v5.2\Proj_PetShop_v5\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.vbproj.CoreCompileInputs.cache
+D:\Arquivos\Nova pasta\Proj_PetShop_v5.2\Proj_PetShop_v5\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.vbproj.CopyComplete
+D:\Arquivos\Nova pasta\Proj_PetShop_v5.2\Proj_PetShop_v5\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.exe
+D:\Arquivos\Nova pasta\Proj_PetShop_v5.2\Proj_PetShop_v5\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.xml
+D:\Arquivos\Nova pasta\Proj_PetShop_v5.2\Proj_PetShop_v5\Proj_PetShop_v4\obj\Debug\Proj_PetShop_v4.pdb
